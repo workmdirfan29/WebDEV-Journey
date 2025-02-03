@@ -26,6 +26,6 @@ In this course, you’ll master:
 
 ## Course Structure:
 
-We’re committed to your progress! Expect daily updates with fresh source code and content. Follow our structured schedule to keep up with the pace, and watch your skills grow rapidly! 📅
+We’re committed to your progress! Expect daily updates with fresh source code and content. Follow our structured schedule to keep up with the pace, and watch your skills grow rapidly! 
 
-Get ready to transform your web development abilities and join a community of passionate learners! 
+Get ready to transform your web development abilities and join a community of passionate learners! 🎯
